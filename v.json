@@ -1,6 +1,15 @@
 {
     "sites": [
         {
+            "key": "",
+            "name": "🏠点击首页切换数据源",
+            "type": 3,
+            "api": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
+        {
             "key":"douban",
             "name":"🅱豆瓣荐片",
             "type":4,
