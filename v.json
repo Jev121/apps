@@ -4,7 +4,7 @@
             "key":"douban",
             "name":"🅱豆瓣荐片",
             "type":4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=ab0b9a7555e84175bbc6f8e60310ae49&timeout=6",
+            "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
