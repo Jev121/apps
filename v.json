@@ -611,7 +611,7 @@
         },
         {
             "key": "Gitcafe",
-            "name": "小纸条",
+            "name": "🔖小纸条",
             "type": 3,
             "api": "csp_Gitcafe",
             "searchable": 1,
@@ -1383,7 +1383,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL2R1b212L2R1by8tL3Jhdy9tYWluL3R4dC92LnR4dA=="
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9KZXYxMjEvYXBwcy9tYWluL3R4dC8zNi50eHQ="
                     ]
                 }
             ]
@@ -1406,22 +1406,22 @@
             "url": "Sequence"
         },
         {
-            "name": "多多测试",
+            "name": "解析测试",
             "type": 0,
             "url": "https://jx.xmflv.com/?url="
         },
         {
-            "name": "多多①线",
+            "name": "解析①线",
             "type": 0,
             "url": "https://hxys.tv/bfq/?url="
         },
         {
-            "name": "多多②线",
+            "name": "解析②线",
             "type": 1,
             "url": "https://jx.zhanlangbu.com/?url="
         },
         {
-            "name": "多多③线",
+            "name": "解析③线",
             "url": "http://101.34.67.237:5705/parse/api/酷云.js?url=",
             "type": 1,
             "ext": {
@@ -1455,27 +1455,27 @@
             }
         },
         {
-            "name": "多多④线",
+            "name": "解析④线",
             "type": 0,
             "url": "https://play.fositv.com/?url="
         },
         {
-            "name": "多多⑤线",
+            "name": "解析⑤线",
             "type": 1,
             "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=adeikprtvwyCEJSXY2&url="
         },
         {
-            "name": "多多⑥线",
+            "name": "解析⑥线",
             "type": 0,
             "url": "https://okjx.cc/?url="
         },
         {
-            "name": "多多⑦线",
+            "name": "解析⑦线",
             "type": 1,
             "url": "http://newjiexi.gotka.top/keyu3.php?url="
         },
         {
-            "name": "多多⑧线",
+            "name": "解析⑧线",
             "type": 1,
             "url": "https://svip.rongxingvr.top/api/?key=4gb6ui9qfap4kLrvb2&url=",
             "ext": {
@@ -1510,12 +1510,12 @@
             }
         },
         {
-            "name": "多多⑨线",
+            "name": "解析⑨线",
             "type": 1,
             "url": "http://api.ckflv.cn/?url="
         },
         {
-            "name": "多多⑩线",
+            "name": "解析⑩线",
             "url": "http://101.34.67.237:5705/parse/api/江湖.js?url=",
             "type": 1,
             "ext": {
@@ -1549,7 +1549,7 @@
             }
         },
         {
-            "name": "多多⑪线",
+            "name": "解析⑪线",
             "url": "http://101.34.67.237:5705/parse/api/鸿途.js?url=",
             "type": 1,
             "ext": {
@@ -1583,7 +1583,7 @@
             }
         },
         {
-            "name": "多多⑫线",
+            "name": "解析⑫线",
             "url": "http://101.34.67.237:5705/parse/api/飞跃.js?url=",
             "type": 1,
             "ext": {
@@ -1617,7 +1617,7 @@
             }
         },
         {
-            "name": "多多⑬线",
+            "name": "解析⑬线",
             "url": "http://101.34.67.237:5705/parse/api/无名.js?url=",
             "type": 1,
             "ext": {
@@ -1651,7 +1651,7 @@
             }
         },
         {
-            "name": "多多⑭线",
+            "name": "解析⑭线",
             "url": "https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=",
             "type": 1,
             "ext": {
@@ -1685,7 +1685,7 @@
             }
         },
         {
-            "name": "多多⑮线",
+            "name": "解析⑮线",
             "url": "https://jx.bynote.top/API.php?url=",
             "type": 1,
             "ext": {
@@ -1719,7 +1719,7 @@
             }
         },
         {
-            "name": "多多⑯线",
+            "name": "解析⑯线",
             "type": 1,
             "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=",
             "ext": {
@@ -1754,7 +1754,7 @@
             }
         },
         {
-            "name": "多多⑰线",
+            "name": "解析⑰线",
             "url": "http://101.34.67.237:5705/parse/api/vip.js?url=",
             "type": 1,
             "ext": {
@@ -1788,7 +1788,7 @@
             }
         },
         {
-            "name": "多多⑱线",
+            "name": "解析⑱线",
             "url": "http://101.34.67.237:5705/parse/api/dyg.js?url=",
             "type": 1,
             "ext": {
@@ -1822,7 +1822,7 @@
             }
         },
         {
-            "name": "多多⑲线",
+            "name": "解析⑲线",
             "type": 1,
             "url": "http://newjiexi.gotka.top/keyu3.php?url=",
             "ext": {
@@ -1851,7 +1851,7 @@
             }
         },
         {
-            "name": "多多⑳线",
+            "name": "解析⑳线",
             "type": 1,
             "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
         }
