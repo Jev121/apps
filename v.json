@@ -121,6 +121,16 @@
             "ext": "https://raw.iqiq.io/Jev121/apps/main/json/789ba.json"
         },
         {
+            "key": "csp_xb_lib",
+            "name": "🍲LIBVIO",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
+        },
+        {
             "key": "csp_XYQ_lu1",
             "name": "️🖥️电视直播",
             "type": 3,
@@ -149,16 +159,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.iqiq.io/Jev121/apps/main/json/真不卡.json"
-        },
-        {
-            "key": "搭配",
-            "name": "💃B站搭配",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://raw.iqiq.io/Jev121/apps/main/json/duodapei.json"
         },
         {
             "key": "csp_XBPQ极品影视",
@@ -316,14 +316,14 @@
             "ext": "https://raw.iqiq.io/Jev121/apps/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
         },
         {
-            "key": "csp_xb_lib",
-            "name": "🍲LIBVIO",
+            "key": "搭配",
+            "name": "💃B站搭配",
             "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://raw.iqiq.io/Jev121/apps/main/json/duodapei.json"
         },
         {
             "key": "bdys",
