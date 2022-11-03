@@ -4,7 +4,7 @@
             "key": "douban",
             "name": "🅱豆瓣荐片",
             "type": 4,
-            "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?",
+            "api": "http://top.fuqizhishi.com/vod",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
