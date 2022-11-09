@@ -6,9 +6,9 @@
             "type": 3,
             "api": "https://raw.iqiq.io/Jev121/apps/main/js/yingmo.js",
             "ext": "https://raw.iqiq.io/Jev121/apps/main/js/douban.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_Kunyu77",
@@ -24,8 +24,8 @@
             "name": "🍲libvio（PY）",
             "type": 3,
             "api": "py_libvio",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.iqiq.io/Jev121/apps/main/json/pylibvio.py"
         },
@@ -82,6 +82,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "ext": "https://raw.iqiq.io/Jev121/apps/main/json/naifei.json"
+        },
+        {
+            "key": "利奥影院",
+            "name": "🍪利奥影院",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.iqiq.io/Jev121/apps/main/json/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"
         },
         {
             "key": "csp_biubiu_voflix",
@@ -368,16 +378,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.iqiq.io/Jev121/apps/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
-        },
-        {
-            "key": "利奥影院",
-            "name": "🍪利奥影院",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.iqiq.io/Jev121/apps/main/json/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"
         },
         {
             "key": "bdys",
