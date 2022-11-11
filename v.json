@@ -732,69 +732,72 @@
         },
         {
             "key": "Gitcafe",
-            "name": "🔖小纸条",
+            "name": "小纸条(新)",
             "type": 3,
             "api": "csp_Gitcafe",
             "searchable": 1,
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://raw.iqiq.io/Jev121/apps/main/jar/top97_1.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "ext": "token;desc",
+            "jar": "https://raw.iqiq.io/Jev121/apps/main/jar/top98.jar;md5;3424fd7d434e4fd8da89203ac54b0540"
         },
         {
             "key": "找资源",
-            "name": "🔍找资源(仅搜索)",
+            "name": "找资源",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://raw.iqiq.io/Jev121/apps/main/jar/top97_1.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "jar": "https://raw.iqiq.io/Jev121/apps/main/jar/top98.jar;md5;3424fd7d434e4fd8da89203ac54b0540"
         },
         {
             "key": "upyunsou",
-            "name": "🌤UP云搜（仅搜索）",
+            "name": "Up云搜",
             "type": 3,
             "api": "csp_Upyunso",
             "searchable": 1,
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 0,
-            "jar": "https://raw.iqiq.io/Jev121/apps/main/jar/top97_1.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "ext": "token;asc",
+            "jar": "https://raw.iqiq.io/Jev121/apps/main/jar/top98.jar;md5;3424fd7d434e4fd8da89203ac54b0540"
         },
         {
             "key": "yisou",
-            "name": "🎯宜搜(仅搜索)",
+            "name": "宜搜",
             "type": 3,
             "api": "csp_Yisou",
             "searchable": 1,
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 0,
-            "jar": "https://raw.iqiq.io/Jev121/apps/main/jar/top97_1.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "jar": "https://raw.iqiq.io/Jev121/apps/main/jar/top98.jar;md5;3424fd7d434e4fd8da89203ac54b0540"
         },
         {
             "key": "AliPS",
-            "name": "📀盘搜(仅搜索)",
+            "name": "AliPS",
             "type": 3,
             "api": "csp_AliPS",
             "searchable": 1,
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://raw.iqiq.io/Jev121/apps/main/jar/top97_1.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "jar": "https://raw.iqiq.io/Jev121/apps/main/jar/top98.jar;md5;3424fd7d434e4fd8da89203ac54b0540"
         },
         {
             "key": "push_agent",
-            "name": "📨推送",
+            "name": "推送",
             "type": 3,
             "api": "csp_PushAgent",
             "searchable": 1,
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 1,
-            "jar": "https://raw.iqiq.io/Jev121/apps/main/jar/top97_1.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "ext": "token;desc",
+            "jar": "https://raw.iqiq.io/Jev121/apps/main/jar/top98.jar;md5;3424fd7d434e4fd8da89203ac54b0540"
         },
         {
             "key": "csp_xpath_yinfans",
